@@ -3,16 +3,15 @@
   "rules": [
     {
       "domain": [
-        "",
-        ""
+        "www.bing.com",
+        "www.bing.cn"
       ],
       "domain_suffix": [
-        "",
-        ""
+        "bing.com",
+        "bing.cn"
       ],
       "domain_keyword": [
-        "",
-        ""
+        "bing."
       ]
     }
   ]
