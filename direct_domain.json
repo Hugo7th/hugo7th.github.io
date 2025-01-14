@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "www.micbar.top",
+        "us.bryan.work",
+        "www.xiamenair.com"
+      ],
+      "domain_suffix": [
+        "micbar.top",
+        "xiamenair.com.cn",
+        "xiamenair.cn",
+        "xiamenair.com"
+      ],
+      "domain_keyword": [
+        "xiamenair",
+        "micbar"
+      ]
+    }
+  ]
+}
